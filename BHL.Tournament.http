@@ -1,0 +1,6 @@
+@BHL.Tournament_HostAddress = http://localhost:5181
+
+GET {{BHL.Tournament_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
