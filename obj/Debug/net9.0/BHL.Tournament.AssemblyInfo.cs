@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BHL.Tournament")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5034255313e7e77d0e05bb331a4e47d415bd5c05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61f9e6e79833aeed451e2719272cf6311fe1456f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BHL.Tournament")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BHL.Tournament")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
