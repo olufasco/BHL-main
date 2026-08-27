@@ -14,6 +14,6 @@ public class Player
     public int GoalDifference => GoalsFor - GoalsAgainst;
 
     // Navigation
-    public Division Division { get; set; }
-    public ICollection<Match> Matches { get; set; }
+    public Division? Division { get; set; }
+    public ICollection<Match>? Matches { get; set; }
 }

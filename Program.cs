@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Database
+// Database (PostgreSQL via Supabase)
 builder.Services.AddDbContext<TournamentDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Services
 builder.Services.AddScoped<ResultsService>();

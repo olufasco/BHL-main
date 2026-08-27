@@ -9,5 +9,5 @@ public class Result
     public bool MultiplierApplied { get; set; }
 
     // Navigation
-    public Match Match { get; set; }
+    public Match? Match { get; set; }
 }

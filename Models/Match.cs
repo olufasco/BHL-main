@@ -11,7 +11,7 @@ public class Match
     public DateTime PlayedDate { get; set; }
 
     // Navigation
-    public Player PlayerA { get; set; }
-    public Player PlayerB { get; set; }
-    public Result Result { get; set; }
+    public Player? PlayerA { get; set; }
+    public Player? PlayerB { get; set; }
+    public Result? Result { get; set; }
 }

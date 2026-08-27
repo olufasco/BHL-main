@@ -6,5 +6,6 @@ public class Season
     public DateTime EndDate { get; set; }
     public bool Active { get; set; }
 
-    public ICollection<Division> Divisions { get; set; }
+    public ICollection<Division>? Divisions { get; set; }
+    
 }

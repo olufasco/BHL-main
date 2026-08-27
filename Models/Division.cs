@@ -6,5 +6,5 @@ public class Division
     public int PromotionSlots { get; set; }
     public int RelegationSlots { get; set; }
 
-    public ICollection<Player> Players { get; set; }
+    public ICollection<Player>? Players { get; set; }
 }
