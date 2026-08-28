@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tmgfu2U4T90=",
+  "dgSpecHash": "VV/aRNCCK9Y=",
   "success": true,
   "projectFilePath": "/home/fasco/Projects/BHL.Tournament/BHL.Tournament.csproj",
   "expectedPackageFiles": [
     "/home/fasco/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
-    "/home/fasco/.nuget/packages/microsoft.aspnetcore.openapi/9.0.18/microsoft.aspnetcore.openapi.9.0.18.nupkg.sha512",
     "/home/fasco/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "/home/fasco/.nuget/packages/microsoft.build.framework/17.8.3/microsoft.build.framework.17.8.3.nupkg.sha512",
     "/home/fasco/.nuget/packages/microsoft.build.locator/1.7.8/microsoft.build.locator.1.7.8.nupkg.sha512",

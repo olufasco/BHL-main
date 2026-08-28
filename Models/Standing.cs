@@ -14,7 +14,7 @@ public class Standing
     public int Points { get; set; }
     public int Rank { get; set; }
 
-    // Navigation
+    /// Navigation
     public Player? Player { get; set; }
     public Division? Division { get; set; }
 }
