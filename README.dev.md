@@ -2,14 +2,7 @@
 
 This project uses a local Postgres instance for development to avoid external network and IPv6 issues.
 
-Prerequisites
-- Docker or Podman installed and running
-- .NET 9 SDK
 
-Start Postgres
-```bash
-docker-compose up -d
-```
 
 Set environment vars (optional but helpful when dotnet creates temp files)
 ```bash
