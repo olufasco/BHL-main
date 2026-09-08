@@ -26,4 +26,3 @@ Default development connection string is in `appsettings.Development.json`:
 ```
 Host=localhost;Port=5432;Database=bhl;Username=postgres;Password=postgres;Ssl Mode=Disable
 ```
-If you prefer to use Supabase directly, revert the connection string and ensure your machine can reach Supabase over IPv4 or IPv6.
