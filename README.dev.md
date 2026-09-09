@@ -14,7 +14,7 @@ Restore, migrate, run
 ```bash
 dotnet restore
 dotnet build
-# create migrations (only if you haven't created them already)
+# create migrations
 dotnet ef migrations add InitialCreate
 # apply migrations
 dotnet ef database update
