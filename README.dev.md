@@ -10,7 +10,6 @@ export TMPDIR=$PWD/.dotnet_tmp
 mkdir -p $DOTNET_CLI_HOME $NUGET_PACKAGES $TMPDIR
 ```
 
-
 ```bash
 dotnet restore
 dotnet build
