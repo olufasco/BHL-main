@@ -2,7 +2,7 @@
 
 This project uses a local Postgres instance for development to avoid external network and IPv6 issues.
 
-Set environment vars (optional but helpful when dotnet creates temp files)
+Set environment vars
 ```bash
 export DOTNET_CLI_HOME=$PWD/.dotnet_tmp
 export NUGET_PACKAGES=$PWD/.nuget_packages
